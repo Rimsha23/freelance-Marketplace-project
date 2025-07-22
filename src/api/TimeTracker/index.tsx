@@ -1,0 +1,1 @@
+export const TIMETRACKERAPI = 'https://gitlub.pythonanywhere.com/timetracking/time/';

@@ -1,0 +1,30 @@
+ .custom-pagination-class .ant-pagination-item,
+ .custom-pagination-class .ant-pagination-prev,
+ .custom-pagination-class .ant-pagination-next {
+ margin: 0 4px; 
+ background-color: #ffffff;
+ border: 1px solid #3A0F7D; 
+ border-radius: 20px; 
+ color: #3A0F7D; 
+}
+
+
+.custom-pagination-class .ant-pagination-item-active {
+ background-color: #3A0F7D; 
+ border-color: #3A0F7D; 
+ border-radius: 20px; 
+ color: #ffffff;
+}
+
+
+.custom-pagination-class .ant-pagination-item:hover,
+.custom-pagination-class .ant-pagination-prev:hover,
+.custom-pagination-class .ant-pagination-next:hover {
+ background-color: #3d167c; 
+ border-color: #3d167c;
+ border-radius: 20px; 
+}
+
+.custom-table .ant-table-tbody {
+    background-color: #F6F8FA; 
+  }

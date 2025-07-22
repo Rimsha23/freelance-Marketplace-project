@@ -1,0 +1,19 @@
+.bg-silogin{
+    background: linear-gradient(64deg, #260B51 0%, #6434AD 99.08%);
+    flex-shrink: 0;
+
+}
+.shadowlogin{
+    box-shadow: 0px 8px 12px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+
+}
+
+.full-page {
+    min-height: 100vh;
+}
+.check{
+    border-radius: 4px;
+border: 1px solid #3A107D;
+background: #FFF;
+}

@@ -1,0 +1,27 @@
+.bg-signup{
+    background: linear-gradient(64deg, #260B51 0%, #6434AD 99.08%);
+    flex-shrink: 0;
+
+}
+.shadow{
+    box-shadow: 0px 8px 12px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+
+}
+.full-page {
+    min-height: 100vh;
+}
+@import '~antd/dist/antd.less';
+
+.ant-notification-notice {
+  &.ant-notification-notice-error {
+    border: 2px solid #ff4d4f;
+     border-radius: 8px;
+   
+  }
+
+}
+
+
+
+
