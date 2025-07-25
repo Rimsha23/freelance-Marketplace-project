@@ -1,7 +1,7 @@
 
 ---
 
-## ✅ 3. **Freelance Marketplace – React + Tailwind**
+## ✅  **Freelance Marketplace – React + Tailwind**
 
 📁 GitHub: [Freelance Marketplace](https://github.com/Rimsha23/freelance-Marketplace-project)
 
